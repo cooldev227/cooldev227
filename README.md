@@ -6,6 +6,10 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </a>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Senior+AI+Engineer;I+have+8+years+of+experience;Be+Welcome!)
+
+##
+
 <!-- <a href="https://linkedin.com/in/rahul-rachhoya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <a href="https://rahulrachhoya.is-a.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:cooldev227@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
