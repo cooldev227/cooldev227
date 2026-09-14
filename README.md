@@ -2,11 +2,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Rahul%20Rachhoya&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI%20%C2%B7%20Agentic%20Systems&descAlignY=55&descAlign=50"/>
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</a>
 
-<a href="https://linkedin.com/in/rahul-rachhoya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="https://linkedin.com/in/rahul-rachhoya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <a href="https://rahulrachhoya.is-a.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:rahulrachhoya0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:cooldev227@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=RahulRachhoya&style=for-the-badge&color=00a8ff&label=VIEWS"/>
 <img alt="Available for Hire" src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-%E2%9C%93-green?style=for-the-badge"/>
 
@@ -18,7 +20,7 @@
 
 <img align="right" alt="AI Engineering" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-I'm a **Senior AI Engineer** with **3+ years** building production LLM systems at scale.
+I'm a **Senior AI Engineer** with **8+ years** building production LLM systems at scale.
 
 Currently at **Careers360** (India's largest career platform, 15M+ users/month) building:
 - 🎙️ **Voice AI counseling agents** — Claude + AWS Bedrock + Sarvam AI, 10K+ sessions, 40% cost reduction
