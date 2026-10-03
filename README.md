@@ -1,10 +1,10 @@
 # 👋 Hi, I'm cooldev227
 
-### Full Stack Developer · Backend-Focused · .NET & Java Spring
+### Full Stack Developer · Backend-Focused · Java Spring & .NET 
 
 I build **scalable, maintainable, and production-ready software** with a strong focus on backend architecture and system design.
 
-My primary stack is **.NET / C#** and **Java / Spring Boot**, combined with modern frontend technologies, databases, APIs, cloud infrastructure, and DevOps tooling.
+My primary stack is **Java / Spring Boot** and **.NET / C#**, combined with modern frontend technologies, databases, APIs, cloud infrastructure, and DevOps tooling.
 
 I enjoy taking an existing idea, legacy application, or incomplete product and turning it into a **cleaner, faster, and more scalable system**.
 
